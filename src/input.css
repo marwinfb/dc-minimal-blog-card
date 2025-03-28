@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+    --font-sora: "Sora", "sans-serif";
+    --color-theme-100: #7C19EE;
+    --color-theme-200: #F2EAFD;
+    --color-theme-300: #E5EAF0;
+    --color-theme-400: #FAFAF9;
+    --color-theme-500: #FFFFFF;
+    --color-theme-600: #20293A;
+    --color-theme-700: #394150;
+}
